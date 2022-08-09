@@ -7,5 +7,5 @@ What does the app do?
 # Instructions (Very Important)
 1. Download and Install _app-debug.apk_. Ignore/accept any securtiy warnings as the app is not signed by the Google Playstore yet.   
 2. Make sure you don't have the YouTube Music app installed. If you do, either uninstall or disable it. 
-3. If you have android 12, go to the  **Open by Default** setting of the SpotYou app and add _music.youtube.com_ through the **Add link** action. 
+3. If you have android 12, go to the  **Open by Default** setting of the **SpotYou** app and add _music.youtube.com_ through the **Add link** action. 
 4. Open a YouTube music link from your phone and hope for the magic 🤞
