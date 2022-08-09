@@ -1,6 +1,6 @@
 # iSpotYou-releases
 
-Direct download link: 
+_**Direct download link**_: 
 https://github.com/howji/iSpotYou-releases/blob/main/app-debug.apk?raw=true
 
 What does the app do?
