@@ -1,4 +1,4 @@
-# iSpotYou-releases
+# Android iSpotYou-releases
 
 _**Direct download link**_: 
 https://github.com/howji/iSpotYou-releases/blob/main/app-debug.apk?raw=true
